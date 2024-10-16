@@ -40,7 +40,3 @@ User Interface: Windows Forms (WinForms)
 Authentication: Custom user authentication system
 Architecture: 3-tier architecture
 Deployment: Standalone desktop application
-Getting Started:
-Clone the repository: https://github.com/dev-khaled-yousef/study-center-management-system
-Open the project in Visual Studio.
-Build and run the application.
