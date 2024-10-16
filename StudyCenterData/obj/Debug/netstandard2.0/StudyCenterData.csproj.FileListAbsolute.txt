@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\bin\Debug\netstandard2.0\StudyCenterData.deps.json
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\bin\Debug\netstandard2.0\StudyCenterData.dll
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\bin\Debug\netstandard2.0\StudyCenterData.pdb
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.AssemblyInfo.cs
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.dll
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterData\obj\Debug\netstandard2.0\StudyCenterData.pdb

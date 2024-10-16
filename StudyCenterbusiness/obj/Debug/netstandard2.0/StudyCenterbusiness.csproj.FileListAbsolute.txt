@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.AssemblyInfo.cs
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\bin\Debug\netstandard2.0\StudyCenterbusiness.deps.json
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\bin\Debug\netstandard2.0\StudyCenterbusiness.dll
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\bin\Debug\netstandard2.0\StudyCenterbusiness.pdb
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\bin\Debug\netstandard2.0\StudyCenterData.dll
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\bin\Debug\netstandard2.0\StudyCenterData.pdb
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCen.048A484B.Up2Date
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.dll
+C:\Users\hp\source\repos\StudyCenterPresentation\StudyCenterbusiness\obj\Debug\netstandard2.0\StudyCenterbusiness.pdb
